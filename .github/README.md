@@ -31,7 +31,7 @@
 
 ## 🎯 **About Me**
 
-
+```
 class FullStackDeveloper:
     def __init__(self):
         self.name = "Musaddiq Ahmed"
@@ -59,7 +59,7 @@ class FullStackDeveloper:
 
 # Instantiate
 dev = FullStackDeveloper()
-
+```
 
 ## 🛠 **3D Tech Stack Matrix**
 
@@ -143,6 +143,7 @@ dev = FullStackDeveloper()
 ### **🏭 Manufacturing Management Software**
 
 # 3D Project Visualization
+```
 {
   "project": "Manufacturing Management System",
   "tech_stack": ["Python", "Tkinter", "CustomTkinter", "SQLite", "MySQL"],
@@ -150,11 +151,13 @@ dev = FullStackDeveloper()
   "status": "✅ Production Ready",
   "impact": "Streamlined entire manufacturing workflow"
 }
+```
 
 
 ### **🔍 Advanced SEO Analyzer Plugin**
 
 # 3D Project Visualization
+```
 {
   "project": "WordPress SEO Analyzer Plugin", 
   "type": "WordPress Plugin",
@@ -162,18 +165,19 @@ dev = FullStackDeveloper()
   "tech": ["PHP", "JavaScript", "WordPress Hooks", "REST API"],
   "status": "✅ Live & Active"
 }
-
+```
 
 ### **🤖 AI-Powered Chat Application**
 
 # 3D Project Visualization
+```
 {
   "project": "Real-time AI Chat App",
   "tech_stack": ["React", "Node.js", "Socket.io", "OpenAI API", "MongoDB"],
   "features": ["Real-time Messaging", "AI Responses", "User Authentication", "Message History"],
   "status": "🚀 In Development"
 }
-
+```
 
 ## 📜 **Certifications & Education**
 
