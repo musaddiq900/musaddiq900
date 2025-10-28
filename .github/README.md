@@ -31,7 +31,7 @@
 
 ## 🎯 **About Me**
 
-```
+```python
 class FullStackDeveloper:
     def __init__(self):
         self.name = "Musaddiq Ahmed"
