@@ -1,17 +1,25 @@
-name: Update GitHub Stats
+name: 🧩 Update GitHub Stats
+
 on:
+  # Run daily at midnight (UTC)
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
   update-readme:
+    name: 📝 Update GitHub Activity Graph
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      # Step 1: Checkout repository
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Update the activity graph in README
+      - name: 📊 Update GitHub Activity Graph
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'chore: update activity graph'
-          MAX_LINES: 10
