@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Animated 3D Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Python+%7C+React+%7C+Node.js;5+Years+Experience" alt="3D Typing Animation" />
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Python+%7C+React+%7C+Node.js;5+Years+Experience" alt="Typing Animation" />
 
-<!-- 3D Avatar with Border -->
+<!--  Avatar with Border -->
 <img src="https://raw.githubusercontent.com/musaddiq900/musaddiq900/main/assets/avatar.gif" width="200" height="200" style="border-radius: 50%; border: 3px solid #00FF00; box-shadow: 0 0 20px #00FF00;" />
 
 # 🚀 Musaddiq Ahmed
 ### **Full Stack Developer & AI Specialist**
 
-<!-- 3D Animated Social Badges -->
+<!--  Animated Social Badges -->
 <p align="center">
   <a href="mailto:musaddiqa00@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-3D_Inbox-00FF00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Email" />
@@ -61,7 +61,7 @@ class FullStackDeveloper:
 dev = FullStackDeveloper()
 ```
 
-## 🛠 **3D Tech Stack Matrix**
+## 🛠 ** Tech Stack Matrix**
 
 ### **Backend Development**
 <div align="center">
@@ -98,7 +98,7 @@ dev = FullStackDeveloper()
 
 </div>
 
-## 📊 **3D GitHub Analytics**
+## 📊 ** GitHub Analytics**
 
 <div align="center">
 
@@ -108,9 +108,9 @@ dev = FullStackDeveloper()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq900&layout=compact&theme=radical&border_color=00FF00&bg_color=0D1117&title_color=00FF00&langs_count=8" alt="3D Top Languages" />
 </a>
 
-<!-- GitHub Streak with 3D Glow -->
+<!-- GitHub Streak with Glow -->
 <a href="https://github.com/musaddiq900">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=musaddiq900&theme=radical&border=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00" alt="3D GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=musaddiq900&theme=radical&border=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00" alt=" GitHub Streak" />
 </a>
 
 </div>
@@ -138,11 +138,11 @@ dev = FullStackDeveloper()
 > - 🎨 Collaborated with UI/UX teams to enhance user interfaces
 > - 📱 Developed responsive web applications with modern frameworks
 
-## 🚀 **Featured 3D Projects**
+## 🚀 **Featured Projects**
 
 ### **🏭 Manufacturing Management Software**
 
-# 3D Project Visualization
+# Project Visualization
 ```json
 {
   "project": "Manufacturing Management System",
@@ -156,7 +156,7 @@ dev = FullStackDeveloper()
 
 ### **🔍 Advanced SEO Analyzer Plugin**
 
-# 3D Project Visualization
+# Project Visualization
 ```json
 {
   "project": "WordPress SEO Analyzer Plugin", 
@@ -169,7 +169,7 @@ dev = FullStackDeveloper()
 
 ### **🤖 AI-Powered Chat Application**
 
-# 3D Project Visualization
+# Project Visualization
 ```json
 {
   "project": "Real-time AI Chat App",
@@ -193,7 +193,7 @@ dev = FullStackDeveloper()
 
 </div>
 
-## 📫 **3D Contact Matrix**
+## 📫 ** Contact Matrix**
 
 <div align="center">
 
@@ -237,7 +237,7 @@ dev = FullStackDeveloper()
 
 ### **🎯 "First, solve the problem. Then, write the code." - John Johnson**
 
-🌟 **Thanks for visiting my 3D GitHub profile!** 🌟
+🌟 **Thanks for visiting my GitHub profile!** 🌟
 
 </div>
 
