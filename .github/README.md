@@ -251,7 +251,6 @@ dev = FullStackDeveloper()
 ### 💻 Recent GitHub Activity
 <!--START_SECTION:activity-->
 
-### 🐍 My 3D GitHub Contribution Snake
 
 
 
