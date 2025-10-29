@@ -225,7 +225,6 @@ dev = FullStackDeveloper()
 
 ![3D Snake Light](https://raw.githubusercontent.com/musaddiq900/musaddiq900/output/github-contribution-snake-3d.svg#gh-light-mode-only)
 ![3D Snake Dark](https://raw.githubusercontent.com/musaddiq900/musaddiq900/output/github-contribution-snake-3d-dark.svg#gh-dark-mode-only)
-![Neon 3D Snake](https://raw.githubusercontent.com/musaddiq900/musaddiq900/output/github-contribution-snake-3d-neon.svg)
 
 
 </div>
