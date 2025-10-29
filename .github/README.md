@@ -229,9 +229,7 @@ dev = FullStackDeveloper()
 
 <div align="center">
 
-### 💻 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 ## ⚡ **Quick Stats**
 
@@ -245,5 +243,10 @@ dev = FullStackDeveloper()
 🌟 **Thanks for visiting my GitHub profile!** 🌟
 
 </div>
+
+### 💻 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 
