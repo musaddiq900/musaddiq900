@@ -229,6 +229,10 @@ dev = FullStackDeveloper()
 
 <div align="center">
 
+### 💻 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## ⚡ **Quick Stats**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musaddiq900&label=3D%20Profile%20Views&color=00FF00&style=flat-square)
