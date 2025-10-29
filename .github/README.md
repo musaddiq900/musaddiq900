@@ -143,7 +143,7 @@ dev = FullStackDeveloper()
 ### **🏭 Manufacturing Management Software**
 
 # 3D Project Visualization
-```
+```json
 {
   "project": "Manufacturing Management System",
   "tech_stack": ["Python", "Tkinter", "CustomTkinter", "SQLite", "MySQL"],
@@ -157,7 +157,7 @@ dev = FullStackDeveloper()
 ### **🔍 Advanced SEO Analyzer Plugin**
 
 # 3D Project Visualization
-```
+```json
 {
   "project": "WordPress SEO Analyzer Plugin", 
   "type": "WordPress Plugin",
@@ -170,7 +170,7 @@ dev = FullStackDeveloper()
 ### **🤖 AI-Powered Chat Application**
 
 # 3D Project Visualization
-```
+```json
 {
   "project": "Real-time AI Chat App",
   "tech_stack": ["React", "Node.js", "Socket.io", "OpenAI API", "MongoDB"],
