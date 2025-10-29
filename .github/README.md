@@ -220,7 +220,8 @@ dev = FullStackDeveloper()
 <!-- Snake Animation -->
 <div align="center">
 
-![Snake Animation](https://github.com/musaddiq900/musaddiq900/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/musaddiq900/musaddiq900/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/musaddiq900/musaddiq900/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
