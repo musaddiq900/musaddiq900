@@ -1,0 +1,53 @@
+name: 🐍✨ Generate 3D Animated GitHub Snake
+
+on:
+  # 🕛 Auto-run every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # 🚀 Manual trigger via Actions tab
+  workflow_dispatch:
+
+  # 🔁 Run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    name: 🧩 Build 3D Snake Animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 🛎️ Step 1 — Checkout the latest code
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v4
+
+      # 🐍 Step 2 — Generate vibrant 3D-styled contribution snake animations
+      - name: 🌀 Generate Animated 3D Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: musaddiq900
+
+          # 🖼️ Generate multiple visual styles (light, dark, and neon)
+          outputs: |
+            dist/github-contribution-snake-3d.svg
+            dist/github-contribution-snake-3d-dark.svg?palette=github-dark
+            dist/github-contribution-snake-3d-neon.svg?color_snake=#00FFFF&color_dots=#001F3F,#0074D9,#7FDBFF,#39CCCC,#3D9970
+
+          # 🎨 Optional customization (extra visual depth)
+          # Use gradients, high contrast, and enhanced speed
+          color_snake: "#39FF14"   # Neon green snake
+          color_dots: "#1E1E1E,#00FFFF,#39CCCC,#2ECC40,#B10DC9"
+          background: "transparent"
+          frame_duration: 100     # Smoother animation (in ms)
+
+      # 🚀 Step 3 — Deploy generated SVGs to the 'output' branch
+      - name: 🚀 Deploy 3D Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
