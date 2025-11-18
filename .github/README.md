@@ -248,13 +248,9 @@ dev = FullStackDeveloper()
 
 </div>
 
-### 💻 Recent GitHub Activity
+## 🚀 My Latest GitHub Activity
+
 <!--START_SECTION:activity-->
-
-
-
-
-
 <!--END_SECTION:activity-->
 
 
